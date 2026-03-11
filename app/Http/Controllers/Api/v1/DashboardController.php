@@ -6,7 +6,7 @@ use App\Models\Category;
 use App\Models\Invoice;
 use App\Models\Product;
 
-class DashBoardController extends Controller
+class DashboardController extends Controller
 {
     public function summary()
     {
